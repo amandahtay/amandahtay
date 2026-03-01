@@ -2,23 +2,22 @@
 
 I build quantitative models and data systems for financial markets.
 
-Most of my work focuses on risk modeling, derivatives pricing, systematic research, and building reliable analytics infrastructure using Python.
+Most of my work is hands-on: data pipelines, transformation workflows, and analytics infrastructure designed for scalability, reproducibility, and performance.
 
+I focus on clean architecture, efficient processing, and production-ready systems that support quantitative research and financial decision-making.
 ---
 
 ## What I work on
 
-- 📉 Market Risk Models (VaR, CVaR, Stress Testing)
-- 📊 Derivatives Pricing (Black-Scholes, Monte Carlo, Binomial Trees)
-- 📈 Interest Rate Modeling (Vasicek, CIR, Yield Curves)
-- 🧠 Systematic Alpha Research
-- ⚙️ Financial Data Engineering & Analytics Pipelines
-
+📦 Data Pipelines: ingestion → transformation → validation → storage
+🗄 Data Modeling: financial time-series structuring, risk factor datasets, portfolio data normalization
+☁️ Cloud & DevOps: Dockerized environments, CI/CD workflows, AWS & Azure integration
+⚡ ETL & Processing: batch pipelines, automated workflows, large dataset handling
 ---
 
 ## About Me
 
-- 💼 Quantitative Research Consultant
+- 💼 Experience across quantitative research, capital markets, and trading system environments
 - 🎓 MSc Financial Engineering
 - 📐 Mathematics studies
 - 🌍 Based in Germany
@@ -27,10 +26,3 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 
 ---
 
-## Tech Stack
-
-Python | NumPy | Pandas | SciPy | scikit-learn  
-Docker | AWS | Azure  
-SQL | Data Modeling | CI/CD  
-
----
