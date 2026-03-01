@@ -9,10 +9,10 @@ I focus on clean architecture, efficient processing, and production-ready system
 
 ## What I work on
 
-📦 Data Pipelines: ingestion → transformation → validation → storage
-🗄 Data Modeling: financial time-series structuring, risk factor datasets, portfolio data normalization
-☁️ Cloud & DevOps: Dockerized environments, CI/CD workflows, AWS & Azure integration
-⚡ ETL & Processing: batch pipelines, automated workflows, large dataset handling
+-  📦 Data Pipelines: ingestion → transformation → validation → storage
+-  🗄 Data Modeling: financial time-series structuring, risk factor datasets, portfolio data normalization
+-  ☁️ Cloud & DevOps: Dockerized environments, CI/CD workflows, AWS & Azure integration
+-  ⚡ ETL & Processing: batch pipelines, automated workflows, large dataset handling
 ---
 
 ## About Me
