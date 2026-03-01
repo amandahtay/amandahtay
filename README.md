@@ -43,3 +43,6 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 - Data Engineering: Apache Airflow, SQL databases, data validation pipelines
 - DevOps: Docker, Git, AWS/Azure, CI/CD
 - Research: Jupyter, matplotlib, seaborn, SHAP, statistical analysis
+- LLMs: Mistral, LiteLLM, prompt engineering, RAG pipelines
+- Document AI: Surya OCR, Docling, pdfplumber, document extraction
+- Agent Frameworks: OpenClaw / OpenHands skills development
