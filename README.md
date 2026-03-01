@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Amanda 👋
 
-<!--
-**amandahtay/amandahtay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build quantitative models and data systems for financial markets.
 
-Here are some ideas to get you started:
+Most of my work focuses on risk modeling, derivatives pricing, systematic research, and building reliable analytics infrastructure using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+
+- 📉 Market Risk Models (VaR, CVaR, Stress Testing)
+- 📊 Derivatives Pricing (Black-Scholes, Monte Carlo, Binomial Trees)
+- 📈 Interest Rate Modeling (Vasicek, CIR, Yield Curves)
+- 🧠 Systematic Alpha Research
+- ⚙️ Financial Data Engineering & Analytics Pipelines
+
+---
+
+## About Me
+
+- 💼 Quantitative Research Consultant
+- 🎓 MSc Financial Engineering
+- 📐 Mathematics studies
+- 🌍 Based in Germany
+
+I enjoy turning financial theory into clean, testable, and production-ready systems.
+
+---
+
+## Tech Stack
+
+Python | NumPy | Pandas | SciPy | scikit-learn  
+Docker | AWS | Azure  
+SQL | Data Modeling | CI/CD  
+
+---
