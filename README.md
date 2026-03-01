@@ -6,6 +6,8 @@ Most of my work is hands-on: data pipelines, transformation workflows, and analy
 
 I focus on clean architecture, efficient processing, and production-ready systems that support quantitative research and financial decision-making.
 
+_Open to: early design partners in accounting/finance, angel investors interested in EU fintech infrastructure, and engineering collaborators_
+
 ---
 
 ## What I work on
