@@ -32,6 +32,7 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 
 ## Currently Building
 
+- 
 - Options Trading ML System: Implementing Lopez de Prado's triple-barrier labeling with meta-learning for position sizing
 - Time-Series Volatility Modeling: GARCH models for implied volatility forecasting
 
@@ -43,8 +44,6 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 - ML/Data: XGBoost, scikit-learn, PyTorch, pandas, numpy, scipy
 - Quant Finance: Black-Scholes pricing, Greeks calculation, options analytics, risk modeling
 - Data Engineering: Apache Airflow, SQL databases, data validation pipelines
-- DevOps: Docker, Git, AWS/Azure, CI/CD
+- DevOps: Docker, Git, AWS/Azure/GCP, CI/CD
 - Research: Jupyter, matplotlib, seaborn, SHAP, statistical analysis
-- LLMs: Mistral, LiteLLM, prompt engineering, RAG pipelines
-- Document AI: Surya OCR, Docling, pdfplumber, document extraction
-- Agent Frameworks: OpenClaw / OpenHands skills development
+- Agent Frameworks: CrewAI / LangGraph / Claude Code (Native/MCP) skills development
