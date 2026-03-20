@@ -39,9 +39,9 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 
 ## Technical Stack
 
-- Languages: Python, SQL, Bash
+- Languages: Python, SQL, Bash, React, Next.js
 - ML/Data: XGBoost, scikit-learn, PyTorch, pandas, numpy, scipy
-- Quant Finance: Black-Scholes pricing, Greeks calculation, options analytics, risk modeling
+- Quant Finance: Risk modeling
 - Data Engineering: Apache Airflow, SQL databases, data validation pipelines
 - DevOps: Docker, Git, AWS/Azure/GCP, CI/CD
 - Research: Jupyter, matplotlib, seaborn, SHAP, statistical analysis
