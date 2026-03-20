@@ -32,7 +32,6 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 
 ## Currently Building
 
-- 
 - Options Trading ML System: Implementing Lopez de Prado's triple-barrier labeling with meta-learning for position sizing
 - Time-Series Volatility Modeling: GARCH models for implied volatility forecasting
 
