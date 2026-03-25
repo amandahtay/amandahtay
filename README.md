@@ -25,7 +25,7 @@ _Open to: early design partners in accounting/finance, angel investors intereste
 ## About Me
 
 - 💼 Experience across quantitative research, capital markets, and trading system environments
-- 🎓 Economics, MSc in Business Information Systems, MSc Financial Engineering
+- 🎓 BA Economics, MSc in Business Information Systems, MSc Financial Engineering
 - 📐 Mathematics studies
 - 🌍 Based in Germany
 
