@@ -39,7 +39,6 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
           1,437 tests · 8 repos · Live API
           SA-CCR · xVA · IFRS 9 ECL · DeFi risk · MiCA compliance
           → github.com/crediqs
-- Options Trading ML System: Implementing Lopez de Prado's triple-barrier labeling with meta-learning for position sizing
 ---
 
 ## Technical Stack
