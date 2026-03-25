@@ -12,7 +12,10 @@ _Open to: early design partners in accounting/finance, angel investors intereste
 
 ## What I work on
 
--  📦 **Quantitative Data Pipelines**: Market data ingestion → feature engineering → model-ready datasets (options Greeks, volatility surfaces, microstructure features)
+-   🏦 Building crediqs — open-source institutional credit risk 
+       infrastructure (pyccr · pycredit · pychain · crediqs-core)
+-  📦 **Quantitative Data Pipelines**: Market data ingestion → feature engineering →
+       model-ready datasets (options Greeks, volatility surfaces, microstructure features)
 -  📈 **Financial ML**: Supervised learning for trading signals, meta-labeling frameworks, time-series cross-validation, walk-forward analysis
 -  ☁️ **Production Systems**: Dockerized backtesting environments, automated model retraining, CI/CD for quant research
 -  ⚡ **High-Performance Computing**: Vectorized pandas operations, parallel processing for large-scale simulations, computational optimization
@@ -32,9 +35,11 @@ I enjoy turning financial theory into clean, testable, and production-ready syst
 
 ## Currently Building
 
+- crediqs   Institutional credit risk infrastructure
+          1,437 tests · 8 repos · Live API
+          SA-CCR · xVA · IFRS 9 ECL · DeFi risk · MiCA compliance
+          → github.com/crediqs
 - Options Trading ML System: Implementing Lopez de Prado's triple-barrier labeling with meta-learning for position sizing
-- Time-Series Volatility Modeling: GARCH models for implied volatility forecasting
-
 ---
 
 ## Technical Stack
