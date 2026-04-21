@@ -1,6 +1,6 @@
 # Hi, I'm Amanda 👋
 
-I build quantitative models and data systems for financial markets. Founder of crediqs — building institutional credit risk infrastructure.
+I build quantitative models and data systems for financial markets. Founder of crediqs — building Financial Risk Intelligence Platform .
 
 Most of my work is hands-on: data pipelines, transformation workflows, and analytics infrastructure designed for scalability, reproducibility, and performance.
 
@@ -12,7 +12,7 @@ _Open to: early design partners in accounting/finance, angel investors intereste
 
 ## What I work on
 
--   🏦 **Building crediqs**: institutional risk intelligence platform
+-   🏦 **Building crediqs**: Financial Risk Intelligence Platform
 -  📦 **Quantitative Data Pipelines**: Market data ingestion → feature engineering → model-ready datasets (options Greeks, volatility surfaces, microstructure features)
 -  📈 **Financial ML**: Supervised learning for trading signals, meta-labeling frameworks, time-series cross-validation, walk-forward analysis
 -  ☁️ **Production Systems**: Dockerized backtesting environments, automated model retraining, CI/CD for quant research
