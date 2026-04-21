@@ -12,7 +12,7 @@ _Open to: early design partners in accounting/finance, angel investors intereste
 
 ## What I work on
 
--   🏦 Building crediqs — open-source institutional credit risk 
+-   🏦 Building crediqs — institutional risk 
        infrastructure (pyccr · pycredit · pychain · crediqs-core)
 -  📦 **Quantitative Data Pipelines**: Market data ingestion → feature engineering →
        model-ready datasets (options Greeks, volatility surfaces, microstructure features)
