@@ -37,6 +37,7 @@ I enjoy turning financial theory into clean, testable, and production-ready prid
           1,437 tests · 8 repos · Live API
           SA-CCR · xVA · IFRS 9 ECL · DeFi risk · MiCA compliance
           → github.com/crediqs
+- Self-governing AI agents: 24/7 autonomous monitoring under an AI-agent risk & safety framework (scoped authorization, prompt-injection defense, continuous calibration)
 ---
 
 ## Technical Stack
